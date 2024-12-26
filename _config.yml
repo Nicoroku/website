@@ -22,8 +22,7 @@ title: Name in Progress
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   in this blog i will talk about Selfimrpvoement, Tech, Programming and Life long Learning
-baseurl: /website   # Set baseurl to /website since your repository name is 'website'
-permalink: /:year/:month/:day/:title/  # Permalink structure for posts
+baseurl: /website   # Set baseurl to /website since your repository name is 'website'm
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
