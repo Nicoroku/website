@@ -1,0 +1,11 @@
+---
+layout: default
+title:  "test"
+date:   2024-11-27 08:40:42 +0100
+thumbnail: "assets/subtle-prism.png"
+---
+
+
+
+<h1> ich hoffe das es jetzt endlich klapppt</h1>
+<p>es nervt tierisch das ich zu dumm bin für sowas.</p>

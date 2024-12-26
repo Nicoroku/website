@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 16.933332 16.933333"
+   version="1.1"
+   id="svg1"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <g
+     id="g183"
+     transform="matrix(0.12332332,0,0,0.12332332,-3.2449971,-6.8792601)">
+    <path
+       style="fill:#000000;stroke-width:0.264583"
+       id="path6"
+       d="m 84.757898,154.23158 -51.742739,-29.87368 -2e-6,-59.747368 51.742738,-29.873685 51.742735,29.873682 1e-5,59.747371 z"
+       transform="matrix(1.2272253,0,0,1.107092,-9.0114286,20.043903)" />
+    <g
+       id="layer1" />
+    <path
+       style="fill:#ffffff;stroke-width:0.264583"
+       id="path7"
+       d="m 84.757898,154.23158 -51.742739,-29.87368 -2e-6,-59.747368 51.742738,-29.873685 51.742735,29.873682 1e-5,59.747371 z"
+       transform="matrix(0.98017821,0,0,0.87942654,11.973914,42.742225)" />
+    <g
+       id="g7"
+       transform="matrix(0.83431789,0,0,0.8488372,14.572034,14.282496)"
+       style="fill:#ffffff" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:68.4596px;font-family:System-ui;-inkscape-font-specification:'System-ui Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#24221c;fill-opacity:1;stroke-width:3.89735;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="69.502777"
+       y="134.61118"
+       id="text8"
+       transform="scale(0.8834261,1.1319566)"><tspan
+         id="tspan8"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:System-ui;-inkscape-font-specification:'System-ui Bold';stroke-width:3.89735"
+         x="69.502777"
+         y="134.61118">N</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:68.4596px;font-family:System-ui;-inkscape-font-specification:'System-ui Bold';text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#24221c;fill-opacity:1;stroke-width:3.89735;stroke-dasharray:none;paint-order:stroke fill markers"
+       x="102.13419"
+       y="134.64053"
+       id="text9"
+       transform="scale(0.8834261,1.1319566)"><tspan
+         id="tspan9"
+         style="stroke-width:3.89735"
+         x="102.13419"
+         y="134.64053">R</tspan></text>
+    <g
+       id="g9"
+       transform="matrix(3.5716015,0,0,4.5763846,-153.08045,-257.38665)" />
+  </g>
+</svg>
