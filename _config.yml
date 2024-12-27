@@ -20,6 +20,7 @@
 
 title: Name in Progress
 email: your-email@example.com
+markdown: kramdown
 description: >- # this means to ignore newlines until "baseurl:"
   in this blog i will talk about Selfimrpvoement, Tech, Programming and Life long Learning
 baseurl: /website   # Set baseurl to /website since your repository name is 'website'm
