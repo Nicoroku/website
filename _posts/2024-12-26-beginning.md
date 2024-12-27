@@ -2,6 +2,7 @@
 
 layout: default
 title: aller anfang ist schwer
+date: 2024-12-26
 ---
 
 Name | Lunch order | Spicy      | Owes
