@@ -9,7 +9,7 @@ title: about me
     <ul>
       {% for post in site.posts  %}
     <li>
-      <a href="{{ base.url }} /{{ post.url }}"><h3>{{ post.title }}</h3></a><a class="ptn"> </a>
+      <a href="{{ base.url }}{{ post.url }}"><h3>{{ post.title }}</h3></a><a class="ptn"> </a>
        {% if post.thumbnail %}
         <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }} Header Image" class="thumbnail">
     {% if post.image_description %}
