@@ -20,7 +20,7 @@ layout: default
     <ul>
   {% for post in site.posts limit:3 %}
     <li>
-      <a class="ap" href="{{ post.url }}"><h3>{{ post.title }}</h3></a><a class="ptn"> </a>
+      <a class="ap" href="{{ site.baseurl}} {{ post.url }}"><h3>{{ post.title }}</h3></a><a class="ptn"> </a>
        {% if post.thumbnail %}
         <img src="{{ post.thumbnail | relative_url }}" alt="{{ post.title }} Header Image" class="thumbnail">
      {% if post.image_description %}
