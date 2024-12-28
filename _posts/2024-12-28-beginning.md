@@ -1,7 +1,7 @@
 ---
 layout: default
 title:  "Artikel"
-date:   2024-11-25 08:40:42 +0100
+date:   2024-12-28 08:40:42 +0100
 thumbnail: "assets/sticker02-min.png"
 ---
 <body>
