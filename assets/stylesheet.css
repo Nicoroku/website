@@ -141,6 +141,10 @@ text-align: justify;
 
 /* Header und Navigation */
 
+h1 {
+  color: #fffffe;
+}
+
 header {
   display: flex;
   background-color: #232946;
