@@ -4,7 +4,7 @@ title:  "includes"
 date:   2024-11-27 08:40:42 +0100
 thumbnail: "assets/endless-constellation.png"
 image_description: "how to include things with jekyll"
-article-header: "assets/subtle-prism.png"
+article-header: "assets/gpupscaled.jpg"
 
 ---
 <div class="wrapper">
@@ -18,7 +18,7 @@ article-header: "assets/subtle-prism.png"
         {% endif %}
     
 <article>
-   <p class="particle">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut.</p>
+   <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut.</p>
    <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut.</p>
 
 <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt ut.</p>
