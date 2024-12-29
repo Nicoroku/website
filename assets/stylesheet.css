@@ -119,6 +119,7 @@ article {
   box-sizing: border-box; /* Bezieht Padding in die Breite ein */
 }
 
+
 article img {
   width: 800px;
   height: 600px;
@@ -162,6 +163,10 @@ article p {
   font-size: 1rem;
   line-height: 1.6;
   max-width: 800px; /* Begrenze die Breite des Textes */
+  margin-left: 100px;
+}
+
+article h2 {
   margin-left: 100px;
 }
 
