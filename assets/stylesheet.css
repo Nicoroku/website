@@ -174,16 +174,6 @@ article h2 {
   margin-left: 0px;
 }
 
-
-@media (max-width: 600px) {
-  article h1 {
-    font-size: 1.5rem;
-  }
-
-  article p {
-    font-size: 0.9rem;
-  }
-}
   
   /* Header und Navigation */
 
@@ -269,7 +259,21 @@ article h2 {
     color: #eebbc3;
   }
   
+  
+/* SKalierung für MEdia */
 
+  @media (max-width: 600px) {
+    article h1 {
+      font-size: 1.5rem;
+    }
+  
+    article p {
+      font-size: 0.9rem;
+    }
+ 
+ 
+ 
+  }
 
   
   
@@ -427,14 +431,30 @@ article img {
 
 /* Media query for smaller devices (768px and below) */
 @media (max-width: 768px) {
-  article img {
+  .profimage {
     max-width: 90%; /* Shrinks the image width for small screens */
   }
 }
 
 /* Media query for very small devices (480px and below) */
 @media (max-width: 480px) {
-  article img {
-    max-width: 100%; /* Allow the image to fully fit smaller screens */
+  .profimage {
+    max-width: 10%; /* Allow the image to fully fit smaller screens */
+  }
+}
+
+
+/* Media query for smaller devices (768px and below) */
+@media (max-width: 768px) {
+  .profimage {
+    max-width: 70%; /* Shrinks the image width for small screens */
+  }
+}
+
+/* Media query for very small devices (480px and below) */
+@media (max-width: 480px) {
+  .profimage {
+    max-width: 50%; /* Allow the image to fully fit smaller screens */
+    justify-self: center;
   }
 }
