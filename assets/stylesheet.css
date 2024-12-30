@@ -439,7 +439,7 @@ article img {
 /* Media query for very small devices (480px and below) */
 @media (max-width: 480px) {
   .profimage {
-    max-width: 10%; /* Allow the image to fully fit smaller screens */
+    max-width: 50%; /* Allow the image to fully fit smaller screens */
   }
 }
 
