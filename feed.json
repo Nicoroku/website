@@ -1,13 +1,25 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Sixfold",
+    "title": "Roku",
     "description": "",
     "home_page_url": "https://nicoroku.github.io/website",
     "feed_url": "https://nicoroku.github.io/website/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Nico Ackermann"
+        "name": "Roku"
     },
     "items": [
+        {
+            "id": "https://nicoroku.github.io/website/wie-funktionierst-du.html",
+            "url": "https://nicoroku.github.io/website/wie-funktionierst-du.html",
+            "title": "wie funktionierst du?",
+            "author": {
+                "name": "Roku"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-02T17:24:39+02:00",
+            "date_modified": "2026-08-02T17:24:51+02:00"
+        }
     ]
 }

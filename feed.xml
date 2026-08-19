@@ -1,12 +1,24 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>Sixfold</title>
+    <title>Roku</title>
     <link href="https://nicoroku.github.io/website/feed.xml" rel="self" />
     <link href="https://nicoroku.github.io/website" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-08-02T17:24:51+02:00</updated>
     <author>
-        <name>Nico Ackermann</name>
+        <name>Roku</name>
     </author>
     <id>https://nicoroku.github.io/website</id>
 
+    <entry>
+        <title>wie funktionierst du?</title>
+        <author>
+            <name>Roku</name>
+        </author>
+        <link href="https://nicoroku.github.io/website/wie-funktionierst-du.html"/>
+        <id>https://nicoroku.github.io/website/wie-funktionierst-du.html</id>
+
+        <updated>2026-08-02T17:24:39+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
