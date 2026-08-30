@@ -1,12 +1,60 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
-    <title>test</title>
+    <title>Roku</title>
     <link href="https://nicoroku.github.io/website/feed.xml" rel="self" />
     <link href="https://nicoroku.github.io/website" />
-    <updated>1970-01-01T01:00:00+01:00</updated>
+    <updated>2026-08-19T12:24:09+02:00</updated>
     <author>
-        <name>test</name>
+        <name>Roku</name>
     </author>
     <id>https://nicoroku.github.io/website</id>
 
+    <entry>
+        <title>headtitle</title>
+        <author>
+            <name>Roku</name>
+        </author>
+        <link href="https://nicoroku.github.io/website/headtitle.html"/>
+        <id>https://nicoroku.github.io/website/headtitle.html</id>
+            <category term="projects"/>
+
+        <updated>2026-08-19T12:23:26+02:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    test test test tester
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+    <h2 id="test">
+      test
+    </h2>
+
+    <figure class="blockquote">
+      <blockquote>test test</blockquote>
+      <figcaption>tester</figcaption>
+    </figure>
+<hr class="separator separator--dots" />
+
+  <div  class="gallery-wrapper">
+    <div class="gallery" data-columns="3">
+      
+    </div>
+  </div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>wie funktionierst du?</title>
+        <author>
+            <name>Roku</name>
+        </author>
+        <link href="https://nicoroku.github.io/website/wie-funktionierst-du.html"/>
+        <id>https://nicoroku.github.io/website/wie-funktionierst-du.html</id>
+
+        <updated>2026-08-02T17:24:39+02:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
 </feed>
