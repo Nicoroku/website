@@ -3,7 +3,7 @@
     <title>Roku</title>
     <link href="https://nicoroku.github.io/website/feed.xml" rel="self" />
     <link href="https://nicoroku.github.io/website" />
-    <updated>2026-08-19T12:24:09+02:00</updated>
+    <updated>2026-08-30T08:47:52+02:00</updated>
     <author>
         <name>Roku</name>
     </author>
@@ -52,6 +52,7 @@
         </author>
         <link href="https://nicoroku.github.io/website/wie-funktionierst-du.html"/>
         <id>https://nicoroku.github.io/website/wie-funktionierst-du.html</id>
+            <category term="projects"/>
 
         <updated>2026-08-02T17:24:39+02:00</updated>
             <summary></summary>
