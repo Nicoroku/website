@@ -9,49 +9,5 @@
         "name": "Roku"
     },
     "items": [
-        {
-            "id": "https://nicoroku.github.io/website/setting-up-a-website.html",
-            "url": "https://nicoroku.github.io/website/setting-up-a-website.html",
-            "title": "Setting up a Website",
-            "summary": "Why i decided to give it a try well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well,&hellip;",
-            "content_html": "<h3>Why i decided to give it a try</h3>\n<p> </p>\n<p>well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?well, why not?</p>\n<p> </p>",
-            "image": "https://nicoroku.github.io/website/media/posts/5/Duck-ai-image-2026-09-11-12-14-2.jpeg",
-            "author": {
-                "name": "Roku"
-            },
-            "tags": [
-                   "projects"
-            ],
-            "date_published": "2026-08-30T10:03:36+02:00",
-            "date_modified": "2026-09-11T14:17:56+02:00"
-        },
-        {
-            "id": "https://nicoroku.github.io/website/headtitle.html",
-            "url": "https://nicoroku.github.io/website/headtitle.html",
-            "title": "headtitle",
-            "summary": "test test test tester",
-            "content_html": "\n    <h2 id=\"test\">\n      test\n    </h2>\n\n    <figure class=\"blockquote\">\n      <blockquote>test test</blockquote>\n      <figcaption>tester</figcaption>\n    </figure>\n<hr class=\"separator separator--dots\" />\n\n  <div  class=\"gallery-wrapper\">\n    <div class=\"gallery\" data-columns=\"3\">\n      \n    </div>\n  </div>\n<hr class=\"separator separator--dots\" />\n\n  <p>\n    \n  </p>",
-            "author": {
-                "name": "Roku"
-            },
-            "tags": [
-                   "projects"
-            ],
-            "date_published": "2026-08-19T12:23:26+02:00",
-            "date_modified": "2026-08-30T09:49:51+02:00"
-        },
-        {
-            "id": "https://nicoroku.github.io/website/wie-funktionierst-du.html",
-            "url": "https://nicoroku.github.io/website/wie-funktionierst-du.html",
-            "title": "wie funktionierst du?",
-            "author": {
-                "name": "Roku"
-            },
-            "tags": [
-                   "projects"
-            ],
-            "date_published": "2026-08-02T17:24:39+02:00",
-            "date_modified": "2026-08-30T08:47:52+02:00"
-        }
     ]
 }
